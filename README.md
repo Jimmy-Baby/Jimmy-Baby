@@ -8,9 +8,6 @@
 
 I am a C++ Generalist, based in Australia <img src="https://commonlook.com/wp-content/uploads/2019/05/australian-flag-icon.png" width="15">
 
-I am the active Lead Developer at Techsploit.
-I'm working on software security applications, such as the AntiTamperToolkit (Read about in AntiTamperToolkit_Public repo).
-
 ---
 
 ### &nbsp;Languages and Tools:
